@@ -1,0 +1,4 @@
+pulp == 3.3.0
+numpy == 2.2.6
+networkx == 3.5
+scipy == 1.26.0
