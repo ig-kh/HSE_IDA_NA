@@ -1,6 +1,7 @@
 # ignore pycahce
 __pycache__/
-
+solutions/*
+data/
 # ignore solver generated intermediate files
 *.mps
 *.mst
