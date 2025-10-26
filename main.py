@@ -1,4 +1,4 @@
-import polars as ps
+import pandas as ps
 import networkx as nx
 import pulp as pl
 from itertools import islice
